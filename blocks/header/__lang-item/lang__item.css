@@ -12,6 +12,10 @@
     margin-right: 18px;
 }
 
+.header__lang-item:hover {
+    opacity: .8;
+}
+
 @media screen and (min-width: 320px) and (max-width: 767px) {
     .header__lang-item {
         font-size: 18px;
