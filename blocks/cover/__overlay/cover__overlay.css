@@ -3,4 +3,9 @@
     grid-column: 1/-1;
     background-color: #2A2C2F;
     opacity: .3;
+    transition: all .1s ease;
+}
+
+.cover:hover .cover__overlay {
+    opacity: .8;
 }
