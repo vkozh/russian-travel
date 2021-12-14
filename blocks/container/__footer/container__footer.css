@@ -1,0 +1,10 @@
+.container__footer {
+    margin: 0 48px 0;
+    padding-bottom: 24px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .container__footer {
+        margin: 0 16px 0;
+    }
+}
