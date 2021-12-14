@@ -25,6 +25,6 @@
 @media screen and (min-width: 320px) and (max-width: 767px) {
     .header__lang-item {
         font-size: 18px;
-        line-height: 20px;
+        line-height: 1.11;
     }
 }
