@@ -1,4 +1,7 @@
 .header__lang-item {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
     font-family: Inter, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -16,10 +19,6 @@
 
 .header__lang-item:first-of-type {
     margin-right: 18px;
-}
-
-.header__lang-item:hover {
-    opacity: .8;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
