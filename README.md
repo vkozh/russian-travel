@@ -3,7 +3,7 @@
 Учебный проект студенки Яндекс.Практикума 39 потока Валерии Кожевниковой. Цель проекта - научиться верстать адаптивные макеты.
 
 ## GitHub Page
-[https://vkozh.github.io/index.html](https://vkozh.github.io/index.html)
+vkozh/vkozh.github.io
 
 ### Обзор
 * Интро
